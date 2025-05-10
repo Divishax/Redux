@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Divishax/Redux/issues"
   },
-  "homepage": "https://github.com/Divishax/Redux#readme"
+  "homepage": "https://github.com/Divishax/Redux#readme",
+  "dependencies": {
+    "redux": "^5.0.1"
+  }
 }
